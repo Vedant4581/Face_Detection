@@ -1,0 +1,1 @@
+this folder contained all the images of students in respective folders with folder name `{roll_no}-{name}`
